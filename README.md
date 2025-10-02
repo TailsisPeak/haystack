@@ -1,9 +1,5 @@
-<p align="center"><img src="https://github.com/Aluminum-Depot/Tinf0il-new/blob/main/Ultraviolet-Static/public/uv.png" height="200"></p>
+<p align="center"><img src="https://github.com/TailsisPeak/haystack/blob/main/Ultraviolet-Static/public/Haystack.png" height="200"></p>
 
-<h1 align="center">Tinf0il</h1>
+<h1 align="center">H4YSTACK</h1>
+Probe the internet and play games with no restrictions.
 
-Probe the internet privately
-
-## Visit site
-
-[![Probe the internet privately](https://github.com/Aluminum-Depot/Tinf0il-new/blob/main/button.svg)](https://tinf0il.tech)
